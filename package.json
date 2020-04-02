@@ -1,0 +1,45 @@
+{
+  "name": "react-useoutside-handler",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "This React hook allows you to detect clicks outside of a specified element.",
+  "author": {
+    "name": "This is click Studio",
+    "email": "thisisclickstudio@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/thisisclick/react-useoutside-handler",
+  "files": [
+    "build/*"
+  ],
+  "keywords": [
+    "react",
+    "clickoutside",
+    "component",
+    "handle",
+    "handler",
+    "hooks",
+    "onclickoutside",
+    "useoutside"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thisisclick/react-useoutside-handler"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
+    "prettier": "^1.19.1"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}

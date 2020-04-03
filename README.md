@@ -7,14 +7,14 @@
 > Install using [NPM](https://www.npmjs.com/):
 
 ```sh
-npm install react-click-outside-hook --save
+npm install react-useoutside-handler --save
 ```
 
 
 > Install using [Yarn](https://yarnpkg.com):
 
 ```sh
-yarn add react-click-outside-hook
+yarn add react-useoutside-handler
 ```
 
 

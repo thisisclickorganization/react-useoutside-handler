@@ -1,6 +1,6 @@
 {
   "name": "react-useoutside-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "description": "This React hook allows you to detect clicks outside of a specified element.",
   "author": {
